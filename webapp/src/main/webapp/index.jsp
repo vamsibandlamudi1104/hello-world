@@ -3,3 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2> new line added <h2>
 <h2> new line added from vscode</h2>
+new line added for release1.2 branch
